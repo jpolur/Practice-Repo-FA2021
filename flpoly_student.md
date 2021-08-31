@@ -1,4 +1,4 @@
-## Jenna Matau "Tai" Polur (or name you would preferred to be called)
+## Jenna Matai "Tai" Polur
 
 ### Fall 2021
 
