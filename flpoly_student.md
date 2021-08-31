@@ -1,27 +1,27 @@
-## Student Name (or name you would preferred to be called)
+## Jenna Matau "Tai" Polur (or name you would preferred to be called)
 
 ### Fall 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Precalculus
 
-- Course 2
+- Intro to Data Science
 
-- Course 3
+- Intro to Programming with Python and Cloud infrastructure
 
-- Course 4
+- Foundation for academic success
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Sports
 
-- Thing 2
+- Animals and the Enviornment
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- https://imaginationlibrary.com/
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/08/31
