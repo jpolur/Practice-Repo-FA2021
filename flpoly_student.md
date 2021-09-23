@@ -2,6 +2,14 @@
 
 ### Fall 2021
 
+Classes
+| Prefix | Number | Name | Credits|
+|:-------|:-------|:-----|:------:|
+|**COP** |**2073**|_Data Science_| 3|
+|**COP** |**2034**|_Python_|6|
+|**MAC** |**1147**|_Precalc_| 4|
+|**SLS**|**1901** |_FAS_| 0 |
+
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
 - Precalculus
@@ -24,4 +32,4 @@ I am _passionate about_:
 
 ***
 
-> Last modified: 2021/08/31
+> Last modified: 2021/09/22
